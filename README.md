@@ -1,4 +1,4 @@
-# Self_Study_Courses
+# Self_Study_Notes
 These will be public notes for courses that I'm self-studying (not necessarily programming related)
 
 Current TODO list:
