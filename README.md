@@ -2,6 +2,5 @@
 These will be public notes for courses that I'm self-studying (not necessarily programming related)
 
 Current TODO list:
-Finish Goodfellow et al
-Finish CS 61C self-studying
-Study robotic manipulation
+- Accounting fresh from lemonade study notes
+- Effective Python
